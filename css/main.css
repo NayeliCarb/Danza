@@ -62,7 +62,7 @@ button{
 	width: 200px;
 }
 .instruc{
-	width: 620px;
+	width: 660px;
 	height: 300px;
 	background-image: url("../img/instructor_4.jpg");
 	background-size: 100%
@@ -70,7 +70,7 @@ button{
 .instruc1{
 	background-image: url("../img/profesor_9.jpg");
 	background-size: 100%;
-	width: 630px;
+	width: 660px;
 	height: 300px;
 	margin-left: -15px;
 }
@@ -125,16 +125,14 @@ iframe{
 	margin-bottom: 100px;
 }
 .back4{
-	background-image: url("../img/shoes_!.jpg");
-	background-repeat: no-repeat;
-	background-size: 70%;
 	width: 100%;
-	float: right;
+	height: 450px;
+	position: absolute;
 	
 }
 .pConta{
 	font-family: Latolight;
-	margin-top: 100px;
+	margin-top: 60px;
 	font-size: 30px;
 	margin-bottom: 30px;
 }
@@ -170,4 +168,15 @@ iframe{
 	border:1px solid #334375;
 	color: #D8D8D8;
 	font-family: Latolight;
+}
+.backFoot{
+	background-color: #0A0A2A;
+}
+.Pfoot{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Latolight;
+	color: #D8D8D8;
+	font-size: 10px;
+	margin-left: 30px;
 }

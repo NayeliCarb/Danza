@@ -1,1 +1,36 @@
-/* Inserta tu codigo aqui */
+li{
+	list-style-type: none;
+	margin:20px;
+	display: inline-block;
+}
+.back1{
+	background-image: url("../img/dance_7.jpg");
+	background-size: 120%;
+	width: 100%;
+	height: 400px;	
+}
+.cuadroNos{
+	width: 500px;
+	height: 170px;
+	background-color: black; opacity: 0.5;
+	margin-left: 430px;
+	margin-top: 90px;
+	padding-top: 30px;
+} 
+.pNoso{
+	padding-top: 10px;
+	font-family: Latolight;
+}
+.pilar{
+	margin-top: 50px;
+	padding-bottom: 20px;
+	font-size: 25px;
+	color: #848484;
+	border-bottom: 1px solid #848484;
+}
+.pPilar{
+	color: #848484;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
