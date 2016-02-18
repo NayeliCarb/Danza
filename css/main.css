@@ -69,7 +69,6 @@ button{
 	height: 300px;
 	background-image: url("../img/instructor_4.jpg");
 	background-size: 110%;
-	margin-left:15px;
 }
 .instruc1{
 	background-image: url("../img/profesor_9.jpg");
@@ -84,7 +83,7 @@ button{
 	height: 50px;
 	padding-bottom: 0px;
 	position: absolute;
-	margin-left: 370px;
+	margin-left: 430px;
 	margin-top: -53px;
 }
 .nues{
