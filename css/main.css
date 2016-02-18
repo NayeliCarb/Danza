@@ -127,9 +127,11 @@ iframe{
 	margin-left: 50px;
 	margin-bottom: 100px;
 }
+/*parte de contactanos*/
 .back4{
-	width: 100%;
-	height: 450px;
+	width: 60%;
+	height: 400px;
+	margin-left: 400px;
 	position: absolute;
 	
 }

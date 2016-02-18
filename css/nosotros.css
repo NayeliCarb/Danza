@@ -119,10 +119,10 @@ h1{
 	margin-bottom: 60px;
 }
 .back4{
-	width: 100%;
+	width: 60%;
 	height: 400px;
+	margin-left: 400px;
 	position: absolute;
-	
 }
 .pConta{
 	font-family: Latolight;
