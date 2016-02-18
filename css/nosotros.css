@@ -3,6 +3,9 @@ li{
 	margin:20px;
 	display: inline-block;
 }
+h1{
+	margin-top: 20px;
+}
 .back1{
 	background-image: url("../img/dance_7.jpg");
 	background-size: 120%;
@@ -154,6 +157,8 @@ li{
 	border:1px solid #334375;
 	color: #D8D8D8;
 	font-family: Latolight;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 .backFoot1{
 	background-color: #0A0A2A;
