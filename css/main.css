@@ -60,7 +60,7 @@ button{
 	margin-bottom: 80px;
 }
 .decor1{
-	margin-left: 300px;
+	margin-left: 370px;
 	margin-top: -50px;
 	width: 200px;
 }
@@ -131,9 +131,8 @@ iframe{
 .back4{
 	width: 60%;
 	height: 400px;
-	margin-left: 400px;
-	position: absolute;
-	
+	position: absolute;	
+	margin-left: 500px;
 }
 .pConta{
 	font-family: Latolight;

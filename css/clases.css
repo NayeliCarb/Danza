@@ -46,9 +46,10 @@ h2{
 }
 /*parte de contactanos*/
 .back4{
-	width: 100%;
+	width: 60%;
 	height: 400px;
 	position: absolute;	
+	margin-left: 500px;
 }
 .pConta{
 	font-family: Latolight;
