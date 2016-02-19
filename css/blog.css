@@ -58,29 +58,37 @@ button{
 	font-size: 30px;
 	margin-bottom: 30px;
 }
-.nombre{
+
+.inp1{
 	border:2px solid #D8D8D8;
 	width: 500px;
 	height: 40px;
 	margin-top: 10px;
+	background-image: url("../img/perfil.png");
+	background-size: 30px;
+	background-repeat: no-repeat;
+	padding-left: 30px;
 }
-.perfil{
-	width:20px;
-	height: 20px;
-	display: inline-block;
-	margin: 10px;
-}
-.nom{
-	display: inline-block;
-	margin-top: 10px;
-	position: absolute;
-	color: #D8D8D8;
-}
-.nombre1{
+.inp2{
 	border:2px solid #D8D8D8;
 	width: 500px;
-	height: 150px;
+	height: 40px;
 	margin-top: 10px;
+	background-image: url("../img/email.png");
+	background-size: 40px;
+	background-repeat: no-repeat;
+	padding-left: 40px;
+}
+.inp3{
+	border:2px solid #D8D8D8;
+	width: 500px;
+	height: 100px;
+	margin-top: 10px;
+	background-image: url("../img/lapiz.png");
+	background-size: 40px;
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	padding-top: -50px;
 }
 .btnEnv{
 	width: 500px;
